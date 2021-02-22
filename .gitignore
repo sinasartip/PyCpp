@@ -1,3 +1,5 @@
+# ignore automaticaly generated files
+
 build/
 CythonPy/
 *.so
